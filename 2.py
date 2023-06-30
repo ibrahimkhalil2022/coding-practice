@@ -1,5 +1,5 @@
 #Python program showing how to
-# multiple input using split
+#Multiple input using split
 
 #Taking two input at a time
 x, y = input("Enter two values: ").split()
